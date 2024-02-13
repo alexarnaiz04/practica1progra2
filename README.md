@@ -1,1 +1,3 @@
-# practica1progra2
+README
+
+Al ejectuar el codigo presentado en las dos clases, principal y mates nos mostrará el cálculo realizado a través de una aproximacion del numero pi en base a los dardos lanzados que nosotros le dictaremos. El programa funcionará de la siguiente manera: Tendremos un circulo con un radio igual a 1 y un cuadrado cuya areadoble es 4, es decir, el area sera 2, de esta forma podras calcularlo mediante la formula: pi= la multiplicacion de el area del cuadrado por los aciertos, y este rsultado dividido entre los pasos.
